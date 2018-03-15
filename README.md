@@ -1,4 +1,4 @@
 # gitskills
 
 
-Creating a now branch is quick & simple.
+Creating a now branch is quick AND simple.
